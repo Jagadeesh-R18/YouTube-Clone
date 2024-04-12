@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import "./Playvideo.css";
 import like from "../../assets/like.png";
 import dislike from "../../assets/dislike.png";
